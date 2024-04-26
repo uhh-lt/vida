@@ -23,17 +23,17 @@ The VIDA dataset is intended for non-commercial research purposes only. It is de
 Please cite the following paper when using the VIDA Dataset:
 ```latex
 @inproceedings{anastasi-etal-2024-vida,
-    title = "VIDA: The Visual Incel Data Archive. 
+    title = {{VIDA: The Visual Incel Data Archive. 
              A Theory-oriented Annotated Dataset 
-             To Enhance Hate Detection Through Visual Culture",
-    author = "Anastasi, Selenia  and
+             To Enhance Hate Detection Through Visual Culture}},
+    author = {Anastasi, Selenia  and
       Schneider, Florian  and
       Fischer, Tim  and
-      Biemann, Chris",
-    booktitle = "The 8th Workshop on Online Abuse and Harms (WOAH)",
+      Biemann, Chris},
+    booktitle = {The 8th Workshop on Online Abuse and Harms (WOAH)},
     month = jun,
-    year = "2024",
-    address = "Mexico City, Mexico",
+    year = 2024,
+    address = {Mexico City, Mexico},
 }
 ```
 
