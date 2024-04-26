@@ -12,7 +12,7 @@ VIDA is a multimodal dataset designed to facilitate research into visual communi
 Due to the sensitive nature of the dataset, access to VIDA is controlled. 
 
 * **To request access, please complete the [Access Request Form](https://forms.gle/TXHXxGsoeiHBhusC8)**
-* **All requests are subject to the [VIDA Dataset Terms of Use](https://github.com/uhh-lt/vida/blob/main/VIDADatasetTermsofUse.pdf)**
+* **All requests are subject to the [VIDA Dataset Terms of Use](https://github.com/uhh-lt/vida/blob/main/data/VIDADatasetTermsofUse.pdf)**
 
 ### Usage
 
